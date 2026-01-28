@@ -1,0 +1,16 @@
+name: quiz
+description: Real-time quiz client.
+version: 0.1.0
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^14.2.0
+  logging: ^1.2.0
+
+flutter:
+  uses-material-design: true
